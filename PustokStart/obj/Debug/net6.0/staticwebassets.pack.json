@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PustokStart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PustokStart.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\Ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\fonts\\Ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\Ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\fonts\\Ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\Ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\Ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\fonts\\Ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\home-2-slider-1.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\home-2-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\home-2-slider-2.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\home-2-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\home-3-slider-1.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\home-3-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\home-3-slider-2.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\home-3-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\home-4-slider-1.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\home-4-slider-1.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\home-4-slider-2.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\home-4-slider-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\home-slider-1-ai.png",
+      "PackagePath": "staticwebassets\\image\\bg-images\\home-slider-1-ai.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\home-slider-2-ai.png",
+      "PackagePath": "staticwebassets\\image\\bg-images\\home-slider-2-ai.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\promo-banner-contained.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\promo-banner-contained.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\promo-banner-full.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\promo-banner-full.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\promo-banner-mid.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\promo-banner-mid.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\promo-banner-small-with-text.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\promo-banner-small-with-text.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\promo-banner-small.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\promo-banner-small.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\promo-banner-with-text-2--small.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\promo-banner-with-text-2--small.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\promo-banner-with-text-2.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\promo-banner-with-text-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\promo-banner-with-text-big.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\promo-banner-with-text-big.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\bg-images\\promo-banner-with-text.jpg",
+      "PackagePath": "staticwebassets\\image\\bg-images\\promo-banner-with-text.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\favicon.ico",
+      "PackagePath": "staticwebassets\\image\\favicon.ico"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\icon\\author-logo.png",
+      "PackagePath": "staticwebassets\\image\\icon\\author-logo.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\icon\\eng-flag.png",
+      "PackagePath": "staticwebassets\\image\\icon\\eng-flag.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\icon\\germany-flag.png",
+      "PackagePath": "staticwebassets\\image\\icon\\germany-flag.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\icon\\payment.png",
+      "PackagePath": "staticwebassets\\image\\icon\\payment.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\icon\\quotation.png",
+      "PackagePath": "staticwebassets\\image\\icon\\quotation.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\logo--footer.png",
+      "PackagePath": "staticwebassets\\image\\logo--footer.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\best-seller-author.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\best-seller-author.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\blog-grid-1.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\blog-grid-1.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\blog-grid-2.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\blog-grid-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\blog-grid-3.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\blog-grid-3.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\blog-grid-4.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\blog-grid-4.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\blog-img-big-1.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\blog-img-big-1.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\blog-img-big-2.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\blog-img-big-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\blog-img-big-3.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\blog-img-big-3.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\brand-1.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\brand-1.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\brand-2.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\brand-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\brand-3.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\brand-3.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\brand-4.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\brand-4.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\brand-5.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\brand-5.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\brand-6.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\brand-6.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\cat-gal-large.png",
+      "PackagePath": "staticwebassets\\image\\others\\cat-gal-large.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\cat-gal-mid-2.png",
+      "PackagePath": "staticwebassets\\image\\others\\cat-gal-mid-2.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\cat-gal-mid.png",
+      "PackagePath": "staticwebassets\\image\\others\\cat-gal-mid.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\cat-gal-small-2.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\cat-gal-small-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\cat-gal-small.png",
+      "PackagePath": "staticwebassets\\image\\others\\cat-gal-small.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\client-1.png",
+      "PackagePath": "staticwebassets\\image\\others\\client-1.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\client-2.png",
+      "PackagePath": "staticwebassets\\image\\others\\client-2.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\client-3.png",
+      "PackagePath": "staticwebassets\\image\\others\\client-3.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\client-4.png",
+      "PackagePath": "staticwebassets\\image\\others\\client-4.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\client-5.png",
+      "PackagePath": "staticwebassets\\image\\others\\client-5.png"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\home-blog-1.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\home-blog-1.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\home-blog-2.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\home-blog-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\others\\home-side-promo.jpg",
+      "PackagePath": "staticwebassets\\image\\others\\home-side-promo.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\cart-product-1.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\cart-product-1.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-1.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-10.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-12.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-13.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-13.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-2.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-3.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-4.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-5.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-6 (2).jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-6 (2).jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-6.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-7.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-8.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-9.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\image\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\image\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\PustokStart\\PustokStart\\wwwroot\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\js\\plugins.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PustokStart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PustokStart.props",
+      "PackagePath": "build\\PustokStart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PustokStart.props",
+      "PackagePath": "buildMultiTargeting\\PustokStart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PustokStart.props",
+      "PackagePath": "buildTransitive\\PustokStart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
